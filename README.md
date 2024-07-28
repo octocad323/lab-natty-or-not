@@ -21,22 +21,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
-
+"Inteligência Artificial: Transformando o Futuro"
 ## 📒 Descrição
 Breve descrição do seu projeto
-
+"Inteligência Artificial: Transformando o Futuro" é um livro que oferece uma visão acessível e abrangente sobre a Inteligência Artificial (IA). Destinado a leitores de todos os níveis, o livro explora desde os fundamentos da IA e suas principais tecnologias, como algoritmos e redes neurais, até suas aplicações práticas em áreas como saúde, transporte e finanças. Além disso, aborda os desafios éticos e de segurança associados à IA e discute tendências futuras e como se preparar para um mundo impulsionado por essa tecnologia. Com uma abordagem didática e rica em exemplos, o livro visa educar, inspirar e preparar os leitores para entender e utilizar a IA de forma eficaz.
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
-
+Foram ChatGPT e Leonardo AI
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
-
+Pensei em fazer um E-Book impactante, com o tema IA
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-
+foram supreendentes
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+```Foi algo inovador.
 
 ### Exemplos e Insigths
 
